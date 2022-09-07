@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find "$PATH" -type d | wc -l
+=======
+find $PATH type -d | wc -l
+>>>>>>> 7a988aa915fd1ea1f0b32f780a70da41ef0b8adf
